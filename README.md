@@ -8,8 +8,7 @@ https://r-ganesh28.github.io/youtube-homepage-clone/
 
 ---
 
-## 📸 Preview  
-![YouTube Clone Preview](./project-preview.png)  
+## 📸 Preview   
 <img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/29daee63-4267-4c90-9326-b39f22bbf069" />
 
 
