@@ -35,7 +35,7 @@ https://r-ganesh28.github.io/youtube-homepage-clone/
 ---
 
 ## 📁 Folder Structure
-
+'''
 youtube-homepage-clone/
 │
 ├── index.html
@@ -49,7 +49,7 @@ youtube-homepage-clone/
 ├── sidebar-pictures/
 ├── thumbnails/
 └── channels/
-
+'''
 
 ---
 
