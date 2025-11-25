@@ -4,7 +4,7 @@ A clean front-end clone of the YouTube homepage built using **HTML and CSS**.
 This project focuses on practicing layout design, structuring UI components, and understanding how YouTube organizes its homepage visually.
 
 🌐 **Live Demo:**  
-https://r-ganesh28.github.io/youtube-homepage-clone/
+View YouTube-HomePage-Clone(https://r-ganesh28.github.io/YouTube-HomePage-Clone/)
 
 ---
 
